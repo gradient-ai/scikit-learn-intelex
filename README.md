@@ -6,16 +6,9 @@ This folder contains examples of python notebooks that use Intel(R) extension fo
 You can use python notebooks with the help of Jupyter* notebook to run the following files:
 
 ```bash
-conda install -c conda-forge notebook scikit-learn-intelex
+pip install scikit-learn-intelex
 ```  
-or  
-```bash
-pip install notebook scikit-learn-intelex
-```  
-Run Jupyter after installation:
-```bash
-jupyter notebook --notebook-dir=./ --ip=* --no-browser
-```  
+
 
 #### :pencil: Table of contents
 
